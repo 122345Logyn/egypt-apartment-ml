@@ -1,9 +1,9 @@
-
 import streamlit as st
 import pandas as pd
 import numpy as np
 import joblib
 from datetime import datetime
+import os
 
 st.set_page_config(page_title="Egypt Apartment Price Predictor", page_icon="🏠", layout="centered")
 
@@ -21,7 +21,8 @@ st.markdown('<div class="sub">Fast ML app to estimate apartment prices in major 
 
 @st.cache_resource
 def load_model():
-    return joblib.load("model.pkl")
+    model_path = os.path.join(os.path.dirname(__file__), "model.pkl")
+    return joblib.load(model_path)
 
 model = load_model()
 

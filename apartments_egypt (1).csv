@@ -1,0 +1,1201 @@
+district,area_sqm,bedrooms,bathrooms,floor,has_elevator,finishing,building_age,price_egp
+Nasr City,157.4,2,2,6,1,Core & Shell,10,2779545
+6th of October,206.1,3,1,4,1,Semi-Finished,8,3483227
+Zamalek,145.9,1,1,1,1,Core & Shell,3,4497605
+Mohandessin,94.1,1,2,2,1,Luxury-Finished,12,2048716
+New Cairo,110.5,3,1,3,1,Core & Shell,7,2611721
+Nasr City,107.9,4,1,0,1,Core & Shell,18,1465743
+Mohandessin,144.4,1,1,3,1,Semi-Finished,17,2977257
+Mohandessin,129.8,2,1,1,0,Luxury-Finished,8,3648202
+Tagamoa,150.5,1,2,2,1,Core & Shell,6,3559676
+Maadi,181.4,3,1,2,0,Fully-Finished,14,4852529
+6th of October,113.4,2,1,0,1,Fully-Finished,18,2215608
+Nasr City,131.8,4,2,1,1,Core & Shell,14,2451579
+Sheikh Zayed,133.4,4,1,4,1,Fully-Finished,12,2689725
+Tagamoa,139.1,1,1,3,1,Fully-Finished,23,3378452
+New Cairo,98.6,2,2,3,1,Luxury-Finished,7,3504016
+Mohandessin,139.4,3,1,2,1,Luxury-Finished,8,3083563
+Nasr City,148.3,3,2,2,0,Fully-Finished,0,3103162
+Tagamoa,119.6,2,1,3,1,Semi-Finished,27,2755408
+Nasr City,146.6,2,1,2,1,Semi-Finished,12,3393512
+6th of October,126.3,3,1,0,0,Semi-Finished,21,2079023
+Nasr City,170.6,2,2,0,0,Luxury-Finished,16,4515332
+Sheikh Zayed,90.4,2,2,1,1,Fully-Finished,0,1901447
+Zamalek,87.2,3,1,6,1,Fully-Finished,5,3386577
+Nasr City,171.6,1,2,5,1,Semi-Finished,0,3652833
+Mohandessin,146.7,3,1,0,0,Semi-Finished,16,2904415
+Dokki,146.3,3,1,3,1,Luxury-Finished,14,3317906
+6th of October,219.0,3,1,4,1,Semi-Finished,4,4274787
+Sheikh Zayed,187.1,2,2,3,1,Core & Shell,18,3559507
+Zamalek,124.0,2,1,1,0,Fully-Finished,11,4540787
+Heliopolis,147.5,3,2,5,1,Fully-Finished,9,4758324
+Nasr City,163.2,2,1,3,1,Semi-Finished,10,3344530
+Tagamoa,156.3,2,1,0,0,Fully-Finished,8,4446995
+Zamalek,144.6,1,2,3,1,Luxury-Finished,4,6300549
+Heliopolis,137.6,1,2,4,1,Luxury-Finished,20,4012983
+Maadi,73.0,2,2,4,1,Fully-Finished,16,2532208
+Maadi,160.7,4,2,4,1,Semi-Finished,9,4065572
+Mohandessin,100.2,2,1,3,1,Fully-Finished,30,1696446
+Tagamoa,165.9,1,1,5,1,Luxury-Finished,12,4695145
+Tagamoa,102.8,3,1,3,1,Luxury-Finished,12,2938105
+Sheikh Zayed,231.5,3,1,3,1,Semi-Finished,6,4784887
+Maadi,99.3,2,2,4,1,Luxury-Finished,2,2907271
+Nasr City,113.6,2,3,3,1,Core & Shell,1,2224327
+Nasr City,230.5,4,1,2,1,Semi-Finished,22,3766751
+Heliopolis,155.0,3,1,2,0,Luxury-Finished,13,3670893
+Heliopolis,123.6,1,2,0,0,Luxury-Finished,8,3263335
+Mohandessin,199.9,1,2,3,1,Fully-Finished,4,5017448
+Mohandessin,144.0,2,2,2,0,Core & Shell,12,2805961
+Nasr City,206.4,1,3,0,0,Fully-Finished,10,4359312
+Sheikh Zayed,147.6,2,1,2,1,Luxury-Finished,7,3699207
+Maadi,151.1,2,2,3,1,Luxury-Finished,18,4386563
+New Cairo,97.7,2,2,4,1,Fully-Finished,11,2965801
+Mohandessin,192.5,2,2,2,0,Core & Shell,10,3947234
+6th of October,172.1,3,2,3,1,Semi-Finished,17,2766470
+Maadi,149.6,2,2,4,1,Fully-Finished,5,4799944
+Maadi,89.7,1,2,4,1,Core & Shell,16,1933042
+Tagamoa,134.4,2,2,1,1,Core & Shell,19,2702490
+Nasr City,97.9,2,2,1,0,Fully-Finished,5,2093403
+Zamalek,146.0,2,1,3,1,Core & Shell,0,3956734
+Zamalek,102.7,2,2,5,1,Core & Shell,18,3008586
+Nasr City,134.1,1,1,2,0,Core & Shell,14,2023195
+Mohandessin,158.4,4,1,3,1,Semi-Finished,17,3081511
+Maadi,145.1,3,2,1,0,Semi-Finished,12,3329579
+6th of October,200.3,3,3,1,0,Luxury-Finished,18,4021337
+Zamalek,233.5,2,1,1,0,Semi-Finished,4,7354038
+6th of October,100.8,3,2,6,1,Luxury-Finished,19,2045706
+Sheikh Zayed,94.6,3,1,6,1,Luxury-Finished,21,2078967
+Mohandessin,57.9,4,1,5,1,Luxury-Finished,0,1554532
+Nasr City,135.2,3,1,4,1,Semi-Finished,3,2694498
+Zamalek,140.4,3,2,0,1,Core & Shell,0,4711019
+Tagamoa,150.0,2,2,3,1,Semi-Finished,21,3537583
+Tagamoa,227.7,4,1,4,1,Semi-Finished,17,6319419
+New Cairo,91.6,3,2,0,1,Core & Shell,2,1717751
+Zamalek,122.9,3,2,3,1,Core & Shell,25,2922621
+New Cairo,58.3,2,2,2,0,Core & Shell,4,1402726
+Mohandessin,76.3,3,2,1,1,Luxury-Finished,7,1743114
+Zamalek,132.2,3,1,4,1,Semi-Finished,7,4217263
+Tagamoa,130.2,1,1,0,0,Semi-Finished,27,2791246
+Dokki,103.5,3,1,2,0,Semi-Finished,16,2125533
+Nasr City,111.1,2,1,1,1,Luxury-Finished,0,3040706
+Sheikh Zayed,209.0,2,2,3,1,Luxury-Finished,36,4648573
+Heliopolis,129.2,2,1,3,1,Luxury-Finished,5,3109588
+New Cairo,105.9,1,3,4,1,Core & Shell,11,2953150
+New Cairo,138.5,2,2,4,1,Luxury-Finished,3,4774699
+Sheikh Zayed,95.6,1,2,6,1,Core & Shell,0,1874574
+Zamalek,105.7,2,1,1,1,Luxury-Finished,12,3838521
+Maadi,147.2,2,1,1,0,Fully-Finished,7,3926224
+Dokki,157.5,2,2,4,1,Semi-Finished,1,3560927
+Nasr City,105.2,3,1,0,0,Core & Shell,1,1787707
+New Cairo,146.7,2,2,0,0,Core & Shell,11,2899616
+Nasr City,105.7,3,1,2,0,Semi-Finished,20,1770779
+Maadi,172.6,1,2,5,1,Luxury-Finished,7,4775335
+Dokki,161.0,2,2,1,0,Luxury-Finished,12,3764916
+New Cairo,187.6,3,2,2,1,Core & Shell,8,4263780
+Heliopolis,152.8,2,2,7,1,Fully-Finished,18,3702121
+Dokki,189.1,2,1,0,1,Luxury-Finished,2,4474896
+Maadi,135.8,4,2,2,1,Semi-Finished,18,2282841
+New Cairo,145.6,3,1,5,1,Core & Shell,14,3397824
+Sheikh Zayed,163.5,5,2,3,1,Core & Shell,8,2522963
+New Cairo,172.4,2,2,2,0,Semi-Finished,15,4557853
+New Cairo,181.7,2,1,1,0,Core & Shell,8,4394020
+Maadi,169.1,2,2,5,1,Core & Shell,15,4167890
+Tagamoa,100.2,1,1,5,1,Core & Shell,17,2215971
+Zamalek,147.6,1,3,3,1,Luxury-Finished,12,6514698
+Nasr City,156.6,3,1,3,1,Semi-Finished,27,3096091
+Tagamoa,206.7,2,1,2,0,Core & Shell,12,4954225
+Heliopolis,58.8,4,1,2,0,Fully-Finished,3,1214748
+6th of October,172.0,3,1,0,1,Fully-Finished,9,3623562
+Zamalek,123.3,1,1,2,1,Semi-Finished,9,4050342
+6th of October,124.6,3,3,5,1,Luxury-Finished,9,2472679
+Sheikh Zayed,250.8,3,2,2,0,Core & Shell,13,3983940
+New Cairo,109.2,2,1,1,0,Core & Shell,6,2598426
+Nasr City,123.5,4,1,5,1,Semi-Finished,21,1831535
+Mohandessin,119.6,2,1,1,1,Fully-Finished,3,3261559
+Nasr City,177.1,4,2,0,0,Fully-Finished,7,3764682
+6th of October,80.0,3,1,2,1,Fully-Finished,17,1502820
+Tagamoa,118.8,4,1,4,1,Core & Shell,16,2527001
+Mohandessin,149.7,1,2,2,1,Core & Shell,7,3103685
+Maadi,103.3,1,1,4,1,Fully-Finished,1,3288378
+Nasr City,45.0,4,2,2,0,Semi-Finished,7,892326
+6th of October,133.3,4,2,3,1,Fully-Finished,9,2535957
+Tagamoa,148.9,1,1,4,1,Semi-Finished,13,3644345
+Sheikh Zayed,135.8,3,1,1,1,Fully-Finished,13,2392846
+Mohandessin,153.4,1,2,3,1,Luxury-Finished,14,4310687
+6th of October,209.9,4,1,0,0,Core & Shell,7,3107840
+Nasr City,158.3,2,2,1,0,Fully-Finished,7,2811738
+New Cairo,93.5,1,1,5,1,Core & Shell,4,3028873
+Sheikh Zayed,157.2,3,1,4,1,Semi-Finished,7,3072038
+6th of October,250.2,2,2,1,1,Luxury-Finished,11,6029570
+Mohandessin,106.8,4,2,1,0,Core & Shell,17,2044969
+Nasr City,163.0,1,1,2,1,Semi-Finished,11,3232279
+Mohandessin,143.0,1,2,4,1,Core & Shell,16,2944076
+Sheikh Zayed,172.5,3,1,0,0,Semi-Finished,15,3017749
+Heliopolis,147.2,1,1,5,1,Semi-Finished,11,3571725
+New Cairo,136.3,3,2,1,1,Core & Shell,12,2965949
+Sheikh Zayed,115.4,2,2,2,1,Semi-Finished,22,1802459
+Nasr City,126.6,2,2,3,1,Fully-Finished,20,2159363
+Mohandessin,147.0,3,2,5,1,Luxury-Finished,7,4622254
+Tagamoa,238.5,2,1,5,1,Semi-Finished,24,5403158
+Zamalek,116.1,2,1,1,0,Semi-Finished,3,3580421
+Heliopolis,133.4,3,2,1,1,Fully-Finished,19,2911085
+Heliopolis,132.8,3,1,3,1,Semi-Finished,13,3016889
+6th of October,148.0,5,1,1,1,Core & Shell,7,2105220
+Heliopolis,106.3,4,2,1,0,Luxury-Finished,5,3004865
+Zamalek,110.1,3,2,0,1,Luxury-Finished,24,4722232
+Sheikh Zayed,107.4,2,2,3,1,Fully-Finished,17,2562150
+Zamalek,127.0,2,1,1,1,Semi-Finished,11,4802161
+Heliopolis,111.7,3,1,5,1,Fully-Finished,32,2360377
+6th of October,113.0,4,2,6,1,Core & Shell,16,1717075
+6th of October,161.6,4,2,4,1,Fully-Finished,20,3315431
+Mohandessin,197.2,3,1,3,1,Luxury-Finished,21,4459866
+Mohandessin,151.6,2,2,5,1,Fully-Finished,13,3618259
+New Cairo,73.8,3,2,7,1,Core & Shell,9,1954314
+6th of October,146.2,4,1,3,1,Semi-Finished,16,2483893
+Tagamoa,114.9,3,2,0,0,Fully-Finished,13,2727791
+New Cairo,188.8,1,1,3,1,Core & Shell,24,4163416
+Tagamoa,110.0,4,1,1,0,Fully-Finished,15,2691473
+Heliopolis,89.0,3,2,1,0,Core & Shell,1,1920900
+Heliopolis,164.3,2,3,0,0,Semi-Finished,0,3340730
+6th of October,132.9,3,1,3,1,Core & Shell,1,2455122
+Heliopolis,131.3,4,2,3,1,Core & Shell,16,2615392
+Mohandessin,163.9,4,2,4,1,Semi-Finished,11,4000101
+Sheikh Zayed,104.6,4,1,0,0,Fully-Finished,13,1865424
+Tagamoa,172.8,2,1,0,1,Core & Shell,8,2777965
+6th of October,63.7,3,2,3,1,Fully-Finished,4,1245151
+Heliopolis,134.8,1,2,4,1,Fully-Finished,10,3349982
+Heliopolis,144.4,1,1,1,0,Semi-Finished,3,3080375
+Zamalek,215.9,3,1,4,1,Luxury-Finished,23,9310400
+Heliopolis,137.7,2,2,3,1,Semi-Finished,19,3069247
+Tagamoa,182.2,2,2,3,1,Fully-Finished,28,4222543
+Heliopolis,213.1,3,1,2,0,Core & Shell,9,4313657
+6th of October,158.5,2,1,7,1,Fully-Finished,25,3119084
+Zamalek,136.7,3,2,0,0,Fully-Finished,9,3997424
+Dokki,153.0,3,1,6,1,Luxury-Finished,2,3587418
+Dokki,145.1,4,3,2,0,Luxury-Finished,20,3352508
+Maadi,127.2,3,2,0,0,Fully-Finished,23,3229127
+Mohandessin,106.8,3,2,3,1,Fully-Finished,7,2355181
+Nasr City,133.9,4,2,2,0,Semi-Finished,18,1721240
+6th of October,186.7,1,1,0,1,Semi-Finished,1,3545250
+Maadi,114.0,3,1,3,1,Core & Shell,12,2019104
+New Cairo,179.8,2,1,2,1,Luxury-Finished,24,5900131
+Tagamoa,119.3,2,1,7,1,Core & Shell,15,2900040
+Dokki,181.4,3,1,2,0,Semi-Finished,11,3542718
+Heliopolis,167.7,3,2,2,0,Semi-Finished,12,2867117
+Maadi,176.2,3,2,2,0,Core & Shell,28,3170651
+Nasr City,184.9,1,2,0,0,Semi-Finished,7,4038331
+Maadi,126.4,3,2,3,1,Luxury-Finished,13,3677830
+New Cairo,243.2,2,2,5,1,Semi-Finished,20,7163289
+Nasr City,163.7,1,2,0,0,Luxury-Finished,14,3322754
+Mohandessin,132.1,3,2,3,1,Fully-Finished,24,2975855
+Dokki,124.0,3,2,0,0,Luxury-Finished,16,3025433
+Mohandessin,121.6,4,1,3,1,Luxury-Finished,10,3184037
+Maadi,85.7,1,2,1,0,Luxury-Finished,4,1902910
+Dokki,106.2,1,2,5,1,Fully-Finished,6,3062746
+Zamalek,179.2,2,1,7,1,Fully-Finished,0,6271567
+Mohandessin,181.0,5,2,4,1,Luxury-Finished,16,5067559
+Zamalek,169.2,3,2,2,1,Core & Shell,5,4959496
+6th of October,58.8,2,1,0,1,Fully-Finished,13,1184066
+Sheikh Zayed,176.3,1,1,4,1,Core & Shell,4,3023768
+Maadi,159.8,2,2,0,1,Luxury-Finished,7,4505451
+Maadi,63.3,3,1,4,1,Semi-Finished,13,1656591
+Nasr City,140.6,2,2,4,1,Luxury-Finished,12,3383114
+Heliopolis,103.4,2,1,6,1,Fully-Finished,2,2577202
+Mohandessin,102.7,3,1,5,1,Luxury-Finished,6,2923279
+Heliopolis,97.4,5,1,3,1,Core & Shell,17,1923462
+Zamalek,126.7,2,2,2,0,Luxury-Finished,19,6011914
+Tagamoa,109.9,1,1,8,1,Core & Shell,5,3197594
+Tagamoa,210.5,2,2,6,1,Luxury-Finished,8,6802318
+Dokki,108.8,1,1,0,1,Fully-Finished,12,2081927
+6th of October,145.5,1,2,4,1,Luxury-Finished,3,3411040
+Heliopolis,190.2,1,3,3,1,Semi-Finished,6,4250242
+Dokki,160.1,3,2,1,1,Luxury-Finished,13,3249202
+Dokki,130.0,2,1,5,1,Core & Shell,20,2437135
+Heliopolis,85.8,2,2,3,1,Fully-Finished,30,1941403
+Heliopolis,143.6,2,2,2,0,Luxury-Finished,17,4064678
+Maadi,99.6,1,1,4,1,Core & Shell,3,1696649
+Heliopolis,152.5,5,1,4,1,Core & Shell,12,2996486
+Nasr City,176.4,2,2,3,1,Luxury-Finished,6,4703966
+Maadi,127.1,2,2,1,0,Semi-Finished,12,2776539
+New Cairo,183.9,3,1,4,1,Fully-Finished,23,5454914
+Heliopolis,135.5,1,1,2,1,Luxury-Finished,7,3620790
+Sheikh Zayed,137.5,3,1,3,1,Fully-Finished,12,2251830
+Heliopolis,92.7,2,1,4,1,Fully-Finished,24,2387747
+Heliopolis,125.4,4,2,2,1,Core & Shell,7,2385882
+Dokki,117.5,3,2,3,1,Core & Shell,15,2301957
+Mohandessin,177.7,1,1,4,1,Core & Shell,1,3491211
+Sheikh Zayed,82.3,1,2,4,1,Semi-Finished,7,1177885
+Nasr City,110.4,3,1,3,1,Core & Shell,11,1989239
+New Cairo,140.4,2,2,2,0,Semi-Finished,11,3327409
+New Cairo,115.1,2,1,6,1,Semi-Finished,1,2860194
+Zamalek,201.2,2,1,5,1,Semi-Finished,7,8398149
+Dokki,165.5,2,3,1,0,Semi-Finished,17,3173854
+Dokki,193.6,4,2,1,0,Fully-Finished,15,3754305
+Maadi,225.6,3,1,3,1,Core & Shell,1,4382409
+Maadi,189.0,2,1,4,1,Fully-Finished,21,4935194
+Nasr City,179.8,2,1,6,1,Core & Shell,9,3187726
+6th of October,194.8,3,2,7,1,Luxury-Finished,6,4999017
+Heliopolis,137.6,3,2,4,1,Semi-Finished,16,3306882
+Nasr City,118.6,2,1,0,0,Semi-Finished,28,1723798
+Nasr City,125.0,2,2,4,1,Fully-Finished,18,2430271
+Tagamoa,127.5,3,1,6,1,Core & Shell,15,3133210
+Tagamoa,164.8,4,2,0,0,Fully-Finished,15,3891242
+Mohandessin,111.2,3,2,3,1,Luxury-Finished,14,3330536
+Sheikh Zayed,145.8,5,2,0,1,Fully-Finished,18,2820782
+New Cairo,193.0,3,1,0,0,Luxury-Finished,10,5543764
+Nasr City,108.9,3,3,3,1,Luxury-Finished,2,2816300
+Sheikh Zayed,188.8,2,1,3,1,Luxury-Finished,5,4782114
+Maadi,129.6,3,1,2,0,Fully-Finished,17,2990993
+Tagamoa,212.7,2,2,4,1,Luxury-Finished,0,5807089
+Dokki,66.3,4,1,8,1,Luxury-Finished,7,1874302
+Tagamoa,204.4,5,3,5,1,Fully-Finished,20,5851504
+Sheikh Zayed,170.0,2,1,2,0,Core & Shell,10,2658171
+6th of October,166.3,3,2,5,1,Luxury-Finished,2,3772935
+Zamalek,102.7,1,1,2,0,Luxury-Finished,24,4128427
+Sheikh Zayed,88.9,4,2,4,1,Core & Shell,10,1366956
+Dokki,118.3,4,3,6,1,Fully-Finished,8,2489620
+Maadi,141.3,1,2,2,0,Fully-Finished,8,2988979
+6th of October,158.1,2,1,2,1,Fully-Finished,11,3457413
+Mohandessin,209.8,2,1,3,1,Core & Shell,4,4197610
+Mohandessin,169.5,4,1,2,0,Core & Shell,4,2962921
+Zamalek,124.8,3,2,1,0,Luxury-Finished,23,4526892
+Mohandessin,134.0,2,1,4,1,Semi-Finished,17,2690466
+Dokki,138.0,3,1,1,0,Luxury-Finished,18,2776277
+Dokki,148.2,1,2,2,0,Core & Shell,0,3071835
+6th of October,101.9,2,2,5,1,Semi-Finished,3,1900441
+Heliopolis,154.3,3,2,2,0,Fully-Finished,5,3810982
+Tagamoa,86.8,1,2,4,1,Fully-Finished,6,2230586
+Dokki,162.9,5,2,1,0,Fully-Finished,10,3958208
+Heliopolis,105.9,2,1,1,0,Fully-Finished,12,2851357
+Sheikh Zayed,149.5,2,1,0,0,Fully-Finished,19,2749362
+6th of October,126.9,6,2,1,1,Core & Shell,8,2119165
+Zamalek,140.1,1,2,1,1,Semi-Finished,26,4580175
+Zamalek,114.9,4,2,4,1,Semi-Finished,15,3492687
+Dokki,106.0,4,1,2,1,Fully-Finished,4,2484027
+Nasr City,227.8,1,2,5,1,Semi-Finished,11,4702974
+6th of October,87.2,3,1,4,1,Semi-Finished,21,1814394
+Sheikh Zayed,161.1,3,2,2,1,Core & Shell,14,2506100
+Mohandessin,142.6,4,1,5,1,Semi-Finished,22,2882914
+6th of October,45.0,2,2,2,1,Core & Shell,4,666298
+Mohandessin,172.8,3,1,2,1,Semi-Finished,8,3273672
+Dokki,207.7,2,2,6,1,Core & Shell,19,3595528
+New Cairo,153.2,2,1,3,1,Fully-Finished,2,5286838
+Dokki,114.1,3,2,2,0,Fully-Finished,16,2292741
+Maadi,174.2,1,2,6,1,Core & Shell,3,3654891
+6th of October,158.1,3,2,3,1,Luxury-Finished,17,3618984
+Nasr City,153.4,2,2,6,1,Core & Shell,10,2504979
+Heliopolis,184.8,2,1,4,1,Luxury-Finished,7,5180324
+Nasr City,149.9,3,2,2,0,Core & Shell,16,2375550
+Maadi,168.2,3,1,5,1,Semi-Finished,7,4400970
+Tagamoa,151.5,4,1,2,0,Core & Shell,11,3191386
+Zamalek,171.0,1,1,0,1,Luxury-Finished,19,7484585
+Tagamoa,130.3,2,2,5,1,Semi-Finished,4,3552140
+Mohandessin,178.9,3,2,5,1,Luxury-Finished,9,5209029
+Dokki,105.6,1,2,5,1,Luxury-Finished,10,2994140
+6th of October,207.6,4,2,4,1,Luxury-Finished,12,3758475
+6th of October,123.9,2,3,2,0,Core & Shell,12,1955837
+Tagamoa,137.0,4,1,3,1,Core & Shell,6,2701400
+Zamalek,107.5,2,1,1,0,Fully-Finished,0,3995048
+Nasr City,67.3,3,2,0,1,Semi-Finished,9,1129099
+Mohandessin,149.4,4,1,3,1,Core & Shell,10,3001460
+Maadi,144.6,2,1,1,1,Luxury-Finished,20,3767127
+Tagamoa,220.6,2,1,0,0,Core & Shell,2,4061068
+Zamalek,147.0,3,1,4,1,Fully-Finished,8,5684072
+6th of October,207.5,3,1,1,0,Luxury-Finished,5,4068829
+Nasr City,125.5,2,1,3,1,Semi-Finished,10,2245098
+6th of October,142.6,3,1,5,1,Semi-Finished,11,2539369
+Heliopolis,166.9,3,2,3,1,Core & Shell,7,3457642
+Mohandessin,83.5,3,1,2,1,Semi-Finished,10,1400280
+6th of October,110.3,3,2,0,0,Core & Shell,22,1371951
+New Cairo,178.6,3,1,6,1,Semi-Finished,2,5752643
+6th of October,180.0,2,2,2,0,Fully-Finished,14,3376562
+Dokki,129.0,3,2,0,1,Fully-Finished,22,2109972
+Heliopolis,181.5,4,1,2,0,Luxury-Finished,3,4936687
+Dokki,121.1,3,2,5,1,Core & Shell,7,2247281
+Tagamoa,59.2,2,2,6,1,Core & Shell,2,1365762
+Heliopolis,133.8,3,1,3,1,Fully-Finished,8,3283676
+Tagamoa,159.6,3,1,2,1,Core & Shell,11,3337868
+Zamalek,123.4,4,2,2,0,Core & Shell,17,3375593
+6th of October,187.8,3,1,3,1,Core & Shell,0,2702421
+Maadi,81.3,3,3,7,1,Luxury-Finished,17,2521109
+Mohandessin,54.0,2,1,1,0,Fully-Finished,10,1150652
+Maadi,45.9,3,1,3,1,Luxury-Finished,28,1076771
+Dokki,45.0,2,2,6,1,Core & Shell,2,934881
+Dokki,114.1,2,3,0,1,Fully-Finished,14,2448385
+Sheikh Zayed,183.9,3,2,2,0,Semi-Finished,14,3181238
+Sheikh Zayed,163.0,2,2,2,0,Luxury-Finished,21,3472520
+6th of October,55.2,4,1,1,0,Luxury-Finished,7,1312978
+Mohandessin,45.0,6,2,3,1,Core & Shell,11,867000
+Dokki,158.5,3,2,3,1,Core & Shell,10,2805055
+Sheikh Zayed,126.2,4,2,2,1,Core & Shell,17,2029754
+Heliopolis,134.2,2,2,4,1,Core & Shell,5,2874218
+Mohandessin,91.3,1,1,4,1,Luxury-Finished,19,2434788
+Heliopolis,167.6,3,1,3,1,Core & Shell,18,3399583
+Zamalek,188.5,3,2,5,1,Fully-Finished,11,6566006
+Tagamoa,127.7,2,1,2,0,Luxury-Finished,5,3849196
+New Cairo,49.8,3,2,1,1,Semi-Finished,17,1351894
+6th of October,62.7,2,1,1,0,Luxury-Finished,18,1211392
+Nasr City,123.1,1,2,0,1,Semi-Finished,12,2259491
+Maadi,196.2,1,1,3,1,Fully-Finished,26,5125259
+Mohandessin,144.4,2,2,1,1,Luxury-Finished,15,3716494
+Nasr City,182.7,5,2,1,1,Core & Shell,11,2464282
+Dokki,103.7,2,1,3,1,Core & Shell,5,2128292
+Maadi,135.0,2,1,3,1,Luxury-Finished,18,3368305
+6th of October,105.4,2,1,1,0,Fully-Finished,8,2120878
+Heliopolis,146.8,3,2,2,0,Luxury-Finished,15,3793586
+Zamalek,146.9,2,1,2,0,Semi-Finished,23,4913397
+Heliopolis,178.4,4,2,3,1,Semi-Finished,7,3862205
+Tagamoa,162.7,4,1,2,0,Semi-Finished,12,4165114
+Nasr City,70.0,1,1,0,1,Luxury-Finished,7,1571216
+Sheikh Zayed,114.6,4,2,3,1,Fully-Finished,16,2027718
+New Cairo,181.8,2,2,0,1,Fully-Finished,0,5780804
+Tagamoa,151.9,2,1,5,1,Luxury-Finished,2,5910218
+Maadi,94.5,3,1,4,1,Luxury-Finished,7,2742960
+Mohandessin,136.8,1,2,1,0,Fully-Finished,10,2758469
+Mohandessin,45.0,2,3,4,1,Luxury-Finished,11,1160921
+Dokki,136.0,3,1,5,1,Fully-Finished,17,3235322
+Zamalek,154.7,3,2,4,1,Semi-Finished,9,5001992
+Tagamoa,139.6,4,1,0,0,Luxury-Finished,13,4024441
+New Cairo,142.8,3,1,5,1,Fully-Finished,0,4235550
+Dokki,130.4,1,1,6,1,Luxury-Finished,12,3479167
+Heliopolis,78.3,2,1,2,0,Semi-Finished,22,1671723
+Dokki,85.0,3,2,5,1,Core & Shell,24,1319369
+Maadi,98.5,1,1,3,1,Fully-Finished,19,2363362
+Nasr City,120.6,3,1,7,1,Luxury-Finished,0,3304751
+Nasr City,226.1,3,1,2,0,Luxury-Finished,10,5994684
+New Cairo,45.0,4,1,2,0,Luxury-Finished,8,1571787
+Maadi,63.1,3,3,0,1,Fully-Finished,13,1387998
+Sheikh Zayed,154.2,3,1,3,1,Luxury-Finished,26,3208900
+Nasr City,167.4,1,1,3,1,Fully-Finished,23,3414848
+Mohandessin,120.9,2,1,4,1,Luxury-Finished,19,2929247
+Sheikh Zayed,113.8,3,1,2,0,Luxury-Finished,28,2285131
+Mohandessin,118.9,2,2,2,1,Core & Shell,6,2538823
+Zamalek,198.9,2,1,5,1,Fully-Finished,6,8415194
+Zamalek,46.3,3,1,4,1,Core & Shell,12,1266205
+Heliopolis,116.7,3,2,4,1,Core & Shell,27,1797710
+Nasr City,207.8,3,1,0,0,Fully-Finished,10,4527136
+New Cairo,129.3,4,1,2,1,Core & Shell,1,3299213
+6th of October,174.9,2,1,3,1,Fully-Finished,15,3372380
+Sheikh Zayed,190.6,1,2,5,1,Luxury-Finished,2,4928964
+Maadi,112.3,2,2,2,1,Luxury-Finished,6,3219621
+Tagamoa,86.1,1,2,0,0,Semi-Finished,17,2035302
+Maadi,57.3,2,2,1,1,Luxury-Finished,8,1663526
+Tagamoa,170.3,2,1,5,1,Semi-Finished,25,4443739
+Dokki,138.8,2,1,4,1,Semi-Finished,15,3154907
+Zamalek,164.3,1,2,1,0,Fully-Finished,8,6059266
+Dokki,224.8,6,2,2,1,Core & Shell,16,4180226
+Dokki,120.6,4,2,3,1,Fully-Finished,17,2687252
+Mohandessin,172.8,2,1,0,1,Luxury-Finished,15,4471427
+Sheikh Zayed,155.6,4,1,4,1,Fully-Finished,3,3257971
+Heliopolis,166.3,3,1,2,0,Luxury-Finished,0,4526308
+6th of October,175.1,3,2,3,1,Semi-Finished,12,2785907
+Heliopolis,166.4,3,2,1,0,Core & Shell,5,3591201
+Zamalek,113.5,2,2,2,0,Fully-Finished,20,4143321
+Tagamoa,165.8,1,2,3,1,Fully-Finished,9,4646610
+6th of October,55.1,3,1,0,1,Luxury-Finished,0,1299822
+6th of October,106.7,4,1,0,1,Core & Shell,3,1806458
+Tagamoa,128.0,2,2,4,1,Luxury-Finished,20,4369460
+6th of October,118.8,1,1,3,1,Semi-Finished,4,1908480
+Tagamoa,150.5,2,2,1,0,Semi-Finished,10,3268551
+Zamalek,175.1,4,1,1,0,Semi-Finished,0,5551196
+Nasr City,131.2,1,1,0,0,Core & Shell,13,2100610
+6th of October,102.5,3,1,2,0,Core & Shell,25,1618750
+Tagamoa,76.5,3,2,0,0,Semi-Finished,18,1984425
+Nasr City,84.5,2,2,3,1,Fully-Finished,16,1789123
+Sheikh Zayed,152.6,1,2,5,1,Luxury-Finished,10,3652935
+Maadi,66.1,3,2,2,1,Fully-Finished,20,1507031
+Mohandessin,160.4,1,1,2,0,Fully-Finished,13,3469992
+Maadi,129.1,3,1,0,1,Luxury-Finished,25,3640579
+6th of October,76.8,3,1,3,1,Fully-Finished,14,1398243
+Nasr City,99.7,2,1,1,0,Core & Shell,11,1517244
+Maadi,165.7,4,1,3,1,Semi-Finished,15,3878953
+Heliopolis,138.4,3,2,0,0,Fully-Finished,18,3311851
+Nasr City,100.7,3,2,2,0,Core & Shell,20,1980168
+6th of October,99.6,1,2,4,1,Core & Shell,10,1791268
+Dokki,74.8,3,1,6,1,Fully-Finished,27,1474643
+6th of October,110.3,3,1,2,0,Fully-Finished,12,1646300
+Nasr City,134.4,2,1,5,1,Semi-Finished,1,3021688
+Dokki,122.4,2,2,3,1,Core & Shell,16,2337833
+Tagamoa,120.1,2,1,1,0,Fully-Finished,35,3102235
+Tagamoa,74.2,1,2,4,1,Semi-Finished,16,1774622
+Nasr City,129.4,3,2,1,0,Luxury-Finished,10,2706274
+6th of October,142.9,5,2,2,0,Core & Shell,19,2156905
+Maadi,153.9,3,3,0,1,Core & Shell,15,2635136
+6th of October,160.0,2,1,2,0,Core & Shell,19,2515644
+Nasr City,78.9,3,1,0,1,Semi-Finished,10,1380959
+Heliopolis,244.2,3,1,1,0,Luxury-Finished,20,7354828
+Tagamoa,63.6,1,3,3,1,Semi-Finished,5,1711172
+Heliopolis,45.0,3,2,4,1,Core & Shell,3,943897
+Dokki,93.4,3,1,2,0,Fully-Finished,4,2234630
+New Cairo,173.6,2,2,0,0,Semi-Finished,9,4388586
+Dokki,252.9,1,2,4,1,Luxury-Finished,14,7402433
+Zamalek,151.7,3,1,5,1,Fully-Finished,20,5175425
+Nasr City,75.6,2,1,2,0,Fully-Finished,21,1410792
+Mohandessin,133.1,3,2,1,0,Fully-Finished,7,3089652
+New Cairo,189.0,2,1,4,1,Luxury-Finished,6,5763653
+6th of October,106.9,2,1,1,1,Core & Shell,19,1702345
+Dokki,164.3,1,1,2,1,Semi-Finished,16,3346165
+Tagamoa,102.0,3,2,5,1,Core & Shell,17,2446969
+New Cairo,138.8,4,2,1,0,Semi-Finished,23,3564726
+Maadi,115.1,2,2,3,1,Semi-Finished,13,2681031
+Nasr City,211.5,4,2,4,1,Semi-Finished,3,4444949
+Tagamoa,216.4,2,1,1,1,Semi-Finished,3,4949198
+Sheikh Zayed,118.3,1,2,4,1,Semi-Finished,4,2672501
+Tagamoa,158.0,4,1,4,1,Core & Shell,3,4044898
+6th of October,142.7,3,1,1,0,Semi-Finished,16,2073173
+Maadi,155.8,1,2,0,0,Semi-Finished,16,3473507
+Nasr City,103.6,3,2,1,0,Core & Shell,3,1422816
+Maadi,150.7,1,2,2,1,Semi-Finished,17,3171621
+Tagamoa,120.2,3,2,3,1,Fully-Finished,15,2722835
+New Cairo,169.1,3,1,2,1,Core & Shell,11,3901131
+Maadi,150.0,4,2,0,0,Core & Shell,16,3189825
+Nasr City,152.4,4,3,5,1,Luxury-Finished,13,4085908
+Dokki,141.5,3,1,6,1,Fully-Finished,5,3929772
+Mohandessin,157.5,1,2,1,0,Luxury-Finished,17,4153625
+Mohandessin,108.3,3,3,1,1,Core & Shell,3,2337155
+Mohandessin,223.3,3,2,5,1,Fully-Finished,6,5237112
+Dokki,190.4,4,2,1,0,Core & Shell,27,2839243
+New Cairo,119.9,3,2,4,1,Luxury-Finished,15,4141531
+Heliopolis,137.0,3,1,2,0,Core & Shell,13,2303950
+Dokki,152.4,2,3,6,1,Luxury-Finished,8,3998810
+Nasr City,131.7,2,2,1,0,Fully-Finished,2,2966092
+Tagamoa,163.3,2,2,1,1,Semi-Finished,14,4140797
+6th of October,133.5,3,1,2,0,Fully-Finished,10,2306542
+Heliopolis,127.0,1,1,2,0,Fully-Finished,9,2973686
+Dokki,132.2,3,2,1,0,Luxury-Finished,2,2963771
+Nasr City,113.1,2,1,0,0,Core & Shell,8,1878878
+Mohandessin,161.8,2,1,1,0,Semi-Finished,11,2982558
+Heliopolis,160.8,1,1,3,1,Luxury-Finished,13,5489765
+Zamalek,150.7,1,1,0,0,Luxury-Finished,11,5393092
+Heliopolis,176.2,2,1,1,0,Core & Shell,25,2975515
+Sheikh Zayed,217.5,3,2,3,1,Luxury-Finished,15,3960522
+Sheikh Zayed,122.5,3,1,0,0,Fully-Finished,11,2773023
+Maadi,191.1,2,2,2,0,Luxury-Finished,1,5082829
+Nasr City,205.3,2,1,2,1,Core & Shell,27,3650728
+Nasr City,234.8,2,2,0,0,Fully-Finished,23,3854907
+Maadi,144.8,1,1,1,0,Fully-Finished,7,3396977
+Nasr City,110.3,3,1,3,1,Luxury-Finished,21,2343398
+Sheikh Zayed,102.7,2,2,3,1,Luxury-Finished,7,2534050
+New Cairo,85.4,3,2,2,0,Fully-Finished,5,2320084
+Sheikh Zayed,159.1,4,1,3,1,Core & Shell,4,2578712
+Tagamoa,133.6,2,1,1,0,Semi-Finished,14,3071718
+Dokki,45.0,1,1,3,1,Semi-Finished,9,863377
+Nasr City,111.3,4,1,3,1,Fully-Finished,13,1823261
+Mohandessin,169.6,3,2,10,1,Fully-Finished,4,5400925
+Nasr City,122.1,3,1,2,0,Semi-Finished,7,2404277
+Heliopolis,66.7,3,1,0,0,Core & Shell,8,1409773
+Tagamoa,110.9,3,1,4,1,Fully-Finished,17,3545236
+New Cairo,127.1,3,2,5,1,Semi-Finished,6,3876117
+6th of October,126.2,2,2,3,1,Fully-Finished,11,2441281
+Sheikh Zayed,206.0,3,2,2,0,Semi-Finished,4,4261293
+Maadi,174.4,4,1,2,0,Luxury-Finished,1,4910920
+Nasr City,179.8,2,2,2,1,Core & Shell,14,2617711
+Nasr City,138.8,1,1,0,0,Semi-Finished,21,2544415
+Heliopolis,156.0,4,1,6,1,Luxury-Finished,19,4189909
+Dokki,186.1,1,1,1,1,Fully-Finished,7,3612384
+6th of October,190.0,2,2,1,0,Core & Shell,2,3015378
+New Cairo,48.9,2,1,6,1,Semi-Finished,19,1333695
+Maadi,191.9,2,2,3,1,Core & Shell,14,4349440
+Nasr City,168.0,3,1,1,1,Luxury-Finished,11,3856485
+Dokki,84.1,5,2,4,1,Luxury-Finished,12,2071783
+Heliopolis,92.2,3,2,0,1,Core & Shell,14,1649657
+Sheikh Zayed,49.1,2,1,6,1,Luxury-Finished,16,1009667
+Nasr City,156.9,1,2,2,1,Luxury-Finished,11,4120883
+Mohandessin,77.1,1,1,5,1,Fully-Finished,0,1403853
+New Cairo,114.7,3,2,2,1,Core & Shell,8,3039930
+New Cairo,50.9,2,2,3,1,Semi-Finished,7,1388667
+6th of October,45.0,2,2,1,0,Semi-Finished,12,770766
+6th of October,119.6,3,1,2,1,Core & Shell,16,1778093
+New Cairo,108.6,3,2,1,0,Luxury-Finished,21,3165650
+Maadi,154.1,4,1,1,1,Semi-Finished,9,3155205
+Mohandessin,213.1,2,1,3,1,Fully-Finished,2,4960738
+Nasr City,149.3,2,1,1,0,Core & Shell,0,2671856
+Heliopolis,214.0,3,2,4,1,Core & Shell,1,5260532
+Dokki,144.1,4,1,6,1,Core & Shell,18,2766646
+Sheikh Zayed,145.5,2,2,3,1,Luxury-Finished,3,3105739
+Tagamoa,126.6,3,1,5,1,Luxury-Finished,3,4270082
+Heliopolis,53.2,3,1,3,1,Fully-Finished,5,1497454
+Nasr City,181.9,3,1,4,1,Luxury-Finished,6,4881336
+New Cairo,209.2,4,1,3,1,Fully-Finished,1,6859089
+Maadi,155.3,1,1,2,0,Luxury-Finished,9,3839301
+Sheikh Zayed,152.5,3,1,1,1,Core & Shell,20,2704612
+Zamalek,113.2,2,2,2,0,Luxury-Finished,10,4962449
+Mohandessin,49.1,4,2,2,1,Fully-Finished,11,1110038
+Sheikh Zayed,57.1,4,2,3,1,Semi-Finished,19,911041
+Sheikh Zayed,156.3,2,2,1,0,Core & Shell,11,2346709
+Mohandessin,154.5,3,1,1,0,Semi-Finished,11,2832519
+Sheikh Zayed,172.9,2,1,2,0,Semi-Finished,3,2745712
+Zamalek,79.3,3,2,3,1,Core & Shell,7,2523721
+Maadi,114.3,2,1,0,1,Semi-Finished,8,2542250
+Tagamoa,130.7,2,1,4,1,Semi-Finished,1,3736959
+Nasr City,89.9,2,1,1,1,Luxury-Finished,19,2059476
+Dokki,179.0,3,1,2,0,Luxury-Finished,5,5096999
+Tagamoa,81.1,3,2,6,1,Fully-Finished,8,2551494
+Sheikh Zayed,237.7,2,1,0,1,Core & Shell,17,2925798
+Dokki,118.2,3,2,3,1,Luxury-Finished,13,3275437
+6th of October,92.1,2,1,4,1,Fully-Finished,19,1779003
+Tagamoa,188.3,1,3,6,1,Core & Shell,17,5023363
+Sheikh Zayed,60.5,2,1,4,1,Core & Shell,3,1146660
+6th of October,196.7,3,2,1,0,Core & Shell,5,3366520
+New Cairo,170.1,2,1,1,0,Fully-Finished,3,5983795
+Nasr City,77.4,3,2,0,0,Core & Shell,13,1345305
+Tagamoa,135.6,5,1,5,1,Luxury-Finished,10,4681707
+Dokki,154.9,2,2,0,0,Core & Shell,16,2618916
+Dokki,163.7,4,2,3,1,Semi-Finished,4,3151669
+Sheikh Zayed,188.4,4,1,3,1,Luxury-Finished,4,5031492
+Mohandessin,164.9,4,1,2,1,Core & Shell,13,3193220
+Dokki,125.3,2,2,4,1,Core & Shell,4,2687978
+Sheikh Zayed,187.7,3,2,4,1,Core & Shell,5,3285136
+Mohandessin,45.0,3,1,6,1,Semi-Finished,9,984665
+New Cairo,106.8,2,2,1,1,Luxury-Finished,22,3310119
+Dokki,80.7,1,3,1,0,Semi-Finished,2,1810282
+Sheikh Zayed,150.2,2,2,0,0,Fully-Finished,20,3062288
+Heliopolis,158.9,3,3,2,0,Fully-Finished,2,4129657
+Tagamoa,228.9,1,1,3,1,Core & Shell,11,4568971
+Sheikh Zayed,185.5,5,2,1,1,Core & Shell,0,3216776
+Mohandessin,184.7,3,1,1,0,Fully-Finished,3,4643807
+6th of October,176.1,1,2,4,1,Semi-Finished,23,2492196
+Sheikh Zayed,73.5,2,2,6,1,Core & Shell,17,1218805
+Tagamoa,88.8,4,1,6,1,Semi-Finished,9,2719581
+Sheikh Zayed,165.6,2,1,2,1,Luxury-Finished,15,3692868
+Maadi,108.3,2,2,1,0,Core & Shell,15,1879897
+6th of October,83.1,1,1,0,0,Fully-Finished,6,1821046
+Maadi,111.3,3,2,3,1,Core & Shell,11,2003161
+Heliopolis,200.3,4,1,0,0,Core & Shell,9,3378808
+Sheikh Zayed,157.8,2,3,5,1,Fully-Finished,13,3663575
+Maadi,184.8,2,1,3,1,Semi-Finished,18,4120033
+Sheikh Zayed,64.0,2,1,2,0,Luxury-Finished,27,1141799
+Zamalek,157.8,4,3,2,1,Semi-Finished,15,5333415
+Maadi,143.8,2,2,2,1,Core & Shell,17,2826695
+Mohandessin,125.0,5,1,2,0,Core & Shell,27,1927672
+Sheikh Zayed,110.2,2,2,3,1,Semi-Finished,1,2039369
+Tagamoa,107.7,2,2,3,1,Luxury-Finished,2,3835280
+Maadi,146.4,4,2,5,1,Semi-Finished,15,3852651
+Maadi,158.5,2,3,4,1,Semi-Finished,16,3132417
+Dokki,77.0,3,2,1,1,Fully-Finished,13,1877113
+Zamalek,166.3,1,1,1,0,Fully-Finished,8,5736643
+Dokki,113.5,1,1,1,1,Semi-Finished,11,2630798
+6th of October,184.0,2,2,0,0,Luxury-Finished,25,4068325
+Zamalek,142.1,4,2,0,0,Luxury-Finished,8,5706349
+Dokki,114.5,2,1,2,0,Luxury-Finished,12,2480550
+Mohandessin,102.7,1,2,1,0,Semi-Finished,21,2231872
+Zamalek,121.4,1,1,2,0,Semi-Finished,3,3922057
+6th of October,203.9,3,1,0,1,Luxury-Finished,9,4046845
+Sheikh Zayed,157.3,2,2,6,1,Core & Shell,18,2645014
+Mohandessin,126.8,2,2,1,0,Fully-Finished,12,2821850
+Nasr City,112.4,1,2,2,0,Fully-Finished,16,2138295
+Dokki,189.9,2,3,0,0,Semi-Finished,15,3671689
+Heliopolis,99.2,3,2,1,1,Semi-Finished,16,1526868
+Dokki,91.5,4,1,0,0,Core & Shell,10,1873392
+Heliopolis,52.6,1,2,6,1,Core & Shell,11,953061
+Heliopolis,229.3,4,2,1,0,Semi-Finished,11,4752161
+Heliopolis,149.9,4,2,0,0,Fully-Finished,23,3303838
+Zamalek,165.9,4,1,2,1,Core & Shell,7,4177138
+Sheikh Zayed,150.6,5,1,2,0,Semi-Finished,17,2687545
+New Cairo,129.9,1,2,1,1,Luxury-Finished,5,4778517
+Maadi,178.1,3,2,5,1,Luxury-Finished,13,5657371
+Dokki,121.6,4,2,3,1,Core & Shell,1,2355239
+Nasr City,97.6,2,1,0,1,Semi-Finished,28,1806400
+Maadi,221.4,1,2,0,0,Luxury-Finished,6,5523959
+Nasr City,190.8,2,2,4,1,Fully-Finished,30,3133759
+Zamalek,191.7,4,1,5,1,Fully-Finished,14,7041799
+Nasr City,97.9,2,3,3,1,Core & Shell,18,1478759
+Zamalek,99.9,4,1,2,0,Luxury-Finished,12,4078642
+Nasr City,126.9,3,2,4,1,Core & Shell,4,2219118
+Dokki,188.8,3,1,3,1,Core & Shell,3,3534547
+Mohandessin,220.4,2,1,4,1,Semi-Finished,0,4660071
+Maadi,161.8,2,1,4,1,Fully-Finished,15,4182995
+Heliopolis,119.7,3,1,3,1,Core & Shell,8,2338617
+Tagamoa,90.5,2,1,0,0,Luxury-Finished,14,2635713
+Maadi,170.2,2,2,4,1,Core & Shell,15,3182769
+Mohandessin,141.7,3,2,1,0,Core & Shell,13,3086699
+Mohandessin,118.8,2,2,3,1,Core & Shell,21,1842459
+Heliopolis,167.9,3,1,3,1,Luxury-Finished,20,4726746
+New Cairo,83.6,3,1,3,1,Luxury-Finished,12,2709687
+Sheikh Zayed,188.6,2,1,2,1,Core & Shell,13,3413904
+Sheikh Zayed,162.1,2,3,3,1,Core & Shell,22,2496883
+Sheikh Zayed,159.0,3,2,5,1,Semi-Finished,18,2855540
+Nasr City,109.3,3,2,2,0,Fully-Finished,20,2459837
+Maadi,93.8,2,1,3,1,Core & Shell,7,2221195
+Sheikh Zayed,154.1,3,1,0,0,Semi-Finished,14,2088465
+Dokki,180.6,2,3,7,1,Luxury-Finished,10,4794345
+Maadi,179.8,4,1,0,0,Core & Shell,7,3745829
+Dokki,157.4,4,1,1,1,Semi-Finished,18,2672585
+New Cairo,45.0,3,2,2,0,Core & Shell,8,1052246
+Sheikh Zayed,118.3,1,1,4,1,Fully-Finished,14,2474233
+Mohandessin,90.2,2,1,3,1,Luxury-Finished,23,1873212
+Mohandessin,108.6,3,2,2,0,Core & Shell,6,1645823
+Zamalek,139.7,5,2,2,1,Core & Shell,14,4013995
+Sheikh Zayed,98.4,3,2,3,1,Fully-Finished,4,2366069
+Nasr City,164.9,2,2,2,0,Luxury-Finished,5,3646591
+Heliopolis,55.3,3,1,0,0,Luxury-Finished,4,1458216
+Sheikh Zayed,128.2,2,1,0,0,Luxury-Finished,15,2579130
+Dokki,149.2,2,2,5,1,Fully-Finished,16,3192804
+Mohandessin,146.6,2,2,2,1,Core & Shell,10,2765477
+Heliopolis,90.3,1,1,0,1,Semi-Finished,2,1984447
+Mohandessin,94.8,3,2,0,1,Core & Shell,17,1754047
+Nasr City,90.3,3,1,3,1,Fully-Finished,1,1640968
+6th of October,117.8,2,1,0,1,Luxury-Finished,8,2466112
+Maadi,133.0,3,1,5,1,Luxury-Finished,2,4301117
+Sheikh Zayed,188.2,3,1,1,0,Fully-Finished,20,3033810
+Tagamoa,91.3,2,2,3,1,Luxury-Finished,4,2820845
+6th of October,107.4,2,2,0,0,Core & Shell,24,1565149
+Nasr City,184.1,2,1,0,0,Luxury-Finished,7,4399399
+Sheikh Zayed,193.3,1,1,2,0,Semi-Finished,0,3944809
+New Cairo,102.4,2,1,1,1,Luxury-Finished,11,3191482
+New Cairo,118.3,2,2,6,1,Semi-Finished,13,3622530
+Nasr City,72.4,3,1,0,1,Fully-Finished,6,1651480
+Sheikh Zayed,177.8,3,1,2,0,Core & Shell,14,2899602
+Tagamoa,52.0,2,1,4,1,Semi-Finished,5,1331295
+Dokki,141.4,3,2,4,1,Fully-Finished,5,2657396
+Sheikh Zayed,117.3,4,2,4,1,Luxury-Finished,15,2799040
+Nasr City,110.0,2,3,1,0,Fully-Finished,24,2006222
+Heliopolis,194.6,1,2,1,1,Fully-Finished,0,4899456
+Zamalek,180.4,2,1,2,0,Core & Shell,11,5564614
+Maadi,177.7,2,3,3,1,Luxury-Finished,9,4274136
+Mohandessin,123.2,2,2,3,1,Luxury-Finished,2,3413534
+Mohandessin,165.2,4,2,4,1,Core & Shell,12,3258351
+6th of October,191.2,1,1,1,0,Luxury-Finished,15,4303636
+Zamalek,108.1,1,1,4,1,Fully-Finished,16,4117642
+Dokki,122.4,1,2,1,1,Semi-Finished,29,2251062
+Nasr City,108.9,2,1,2,0,Luxury-Finished,20,2449744
+Nasr City,102.1,4,2,4,1,Fully-Finished,7,2315190
+Sheikh Zayed,149.0,1,3,5,1,Core & Shell,8,2320506
+Mohandessin,150.6,3,2,3,1,Fully-Finished,16,3884633
+6th of October,160.6,1,2,6,1,Semi-Finished,37,2224660
+Maadi,145.9,1,2,1,0,Semi-Finished,27,2708190
+Nasr City,59.0,2,1,4,1,Semi-Finished,4,1189575
+Maadi,45.0,2,2,3,1,Semi-Finished,5,1057062
+Dokki,135.8,3,1,4,1,Core & Shell,9,2342849
+Sheikh Zayed,113.0,3,2,0,0,Fully-Finished,4,2313016
+Dokki,131.4,2,1,4,1,Semi-Finished,7,2708852
+Tagamoa,232.6,1,1,4,1,Core & Shell,6,5214827
+Nasr City,99.8,2,2,4,1,Fully-Finished,18,1768894
+Heliopolis,83.2,1,1,4,1,Luxury-Finished,16,2193847
+Mohandessin,134.0,2,2,4,1,Luxury-Finished,0,3869405
+Heliopolis,177.0,2,2,8,1,Core & Shell,11,3941525
+Maadi,101.8,3,2,3,1,Fully-Finished,3,2733428
+Nasr City,200.8,3,2,2,0,Fully-Finished,17,4124744
+Maadi,92.2,3,1,1,0,Semi-Finished,13,2064624
+Maadi,81.5,4,2,1,0,Core & Shell,0,1670961
+Nasr City,114.9,3,1,1,0,Fully-Finished,8,2291151
+Maadi,163.5,2,3,0,1,Semi-Finished,22,3243611
+Sheikh Zayed,173.7,3,2,2,0,Fully-Finished,3,4160369
+Nasr City,129.9,3,2,0,1,Fully-Finished,16,2361503
+Maadi,129.1,3,1,1,0,Core & Shell,22,2601730
+Mohandessin,132.2,3,1,5,1,Semi-Finished,10,2953834
+Tagamoa,186.6,2,2,0,0,Semi-Finished,25,3882000
+Maadi,124.1,1,1,0,0,Fully-Finished,7,2975910
+Tagamoa,178.1,3,2,0,1,Core & Shell,4,4551126
+Nasr City,101.9,4,1,3,1,Core & Shell,20,1863100
+Tagamoa,130.0,2,1,3,1,Fully-Finished,19,3406347
+Zamalek,162.8,4,2,3,1,Luxury-Finished,0,5253730
+Tagamoa,152.5,2,1,3,1,Core & Shell,11,3756146
+Dokki,138.9,2,2,2,0,Fully-Finished,16,2790029
+6th of October,105.8,3,2,3,1,Luxury-Finished,9,1856350
+Zamalek,115.5,3,1,2,0,Luxury-Finished,19,4170921
+6th of October,65.6,2,1,1,0,Core & Shell,10,1019961
+Maadi,134.6,3,3,2,0,Luxury-Finished,14,3498636
+Dokki,96.9,2,1,3,1,Semi-Finished,30,1617284
+Sheikh Zayed,116.3,2,2,3,1,Semi-Finished,22,1538710
+Sheikh Zayed,45.0,2,2,0,0,Fully-Finished,12,915561
+Sheikh Zayed,146.0,1,1,1,0,Semi-Finished,12,2430211
+Sheikh Zayed,157.2,1,1,0,0,Core & Shell,9,2354946
+Sheikh Zayed,170.9,1,2,4,1,Semi-Finished,26,2831439
+Dokki,149.6,1,1,4,1,Core & Shell,11,3046570
+6th of October,73.2,3,3,3,1,Luxury-Finished,14,1533936
+Zamalek,64.3,4,1,4,1,Semi-Finished,0,2037001
+Nasr City,199.6,2,2,2,1,Luxury-Finished,2,5282087
+Tagamoa,108.5,3,2,0,0,Semi-Finished,13,3054800
+Sheikh Zayed,157.2,2,2,3,1,Fully-Finished,13,2841510
+Zamalek,145.5,4,1,5,1,Semi-Finished,11,4583243
+Dokki,179.9,2,2,2,0,Luxury-Finished,11,4597319
+Dokki,148.1,1,1,4,1,Fully-Finished,10,3174827
+Dokki,73.9,1,1,2,1,Luxury-Finished,7,1659386
+Mohandessin,131.9,3,3,0,0,Semi-Finished,21,2708051
+Zamalek,99.9,3,1,3,1,Fully-Finished,24,3633492
+New Cairo,157.9,2,1,2,1,Luxury-Finished,21,4114077
+Tagamoa,87.5,3,1,1,0,Luxury-Finished,8,2270231
+6th of October,91.2,3,1,0,0,Core & Shell,6,1452004
+Heliopolis,126.1,2,2,0,1,Fully-Finished,15,2925820
+Sheikh Zayed,116.6,4,1,5,1,Luxury-Finished,13,2666129
+Sheikh Zayed,134.1,2,2,0,1,Core & Shell,5,2391822
+Tagamoa,108.2,3,3,2,0,Fully-Finished,17,2486623
+Mohandessin,169.0,3,2,1,1,Luxury-Finished,1,4675664
+Mohandessin,45.0,2,2,3,1,Luxury-Finished,27,1180924
+Mohandessin,105.6,3,1,0,1,Core & Shell,4,1826265
+Maadi,45.0,3,1,0,0,Luxury-Finished,15,1263208
+Sheikh Zayed,145.2,2,2,4,1,Fully-Finished,14,2740129
+Mohandessin,147.4,4,1,7,1,Fully-Finished,7,3759112
+Maadi,104.7,3,1,1,1,Luxury-Finished,3,3020457
+Mohandessin,179.8,3,1,7,1,Core & Shell,14,3286959
+New Cairo,142.1,3,1,3,1,Core & Shell,7,3318858
+Maadi,104.1,1,2,4,1,Fully-Finished,16,2820719
+Dokki,149.6,2,2,0,0,Semi-Finished,4,2642734
+Tagamoa,183.6,3,2,5,1,Semi-Finished,4,5059129
+Sheikh Zayed,129.4,3,1,2,0,Fully-Finished,16,2756417
+Maadi,104.9,2,1,1,0,Fully-Finished,13,2675221
+Tagamoa,146.8,1,1,1,1,Luxury-Finished,22,3644356
+Tagamoa,191.5,3,1,0,1,Core & Shell,14,3603453
+Sheikh Zayed,139.6,2,1,1,1,Core & Shell,13,2082992
+Heliopolis,110.1,3,2,2,0,Core & Shell,9,2244963
+Tagamoa,73.9,3,2,4,1,Luxury-Finished,3,2229413
+6th of October,95.5,3,2,5,1,Semi-Finished,8,1638319
+New Cairo,186.7,3,2,3,1,Luxury-Finished,2,5611380
+Maadi,65.2,3,2,6,1,Luxury-Finished,18,2100170
+Maadi,108.9,1,2,3,1,Semi-Finished,12,2569799
+New Cairo,149.5,4,2,4,1,Core & Shell,18,3677729
+Zamalek,114.2,3,1,5,1,Core & Shell,2,3807143
+Dokki,97.0,3,1,0,1,Semi-Finished,15,1686009
+Heliopolis,174.7,3,2,1,0,Luxury-Finished,7,4451642
+Mohandessin,173.6,4,1,5,1,Luxury-Finished,5,4255004
+New Cairo,91.9,1,1,3,1,Semi-Finished,10,2553796
+Mohandessin,166.1,3,2,2,1,Fully-Finished,2,4367614
+Dokki,108.5,2,1,1,0,Fully-Finished,8,2423038
+Maadi,150.7,2,1,5,1,Luxury-Finished,15,5242753
+Mohandessin,188.1,4,1,4,1,Fully-Finished,11,4190408
+Mohandessin,142.6,3,2,1,0,Fully-Finished,17,2877536
+Tagamoa,144.8,2,1,4,1,Luxury-Finished,3,5643251
+Zamalek,53.1,2,2,4,1,Semi-Finished,11,1789955
+6th of October,153.5,2,2,4,1,Fully-Finished,18,2575351
+Zamalek,131.4,2,1,3,1,Fully-Finished,7,5264374
+6th of October,86.8,4,1,3,1,Semi-Finished,18,1350679
+Dokki,173.4,1,2,3,1,Fully-Finished,7,3793165
+Dokki,171.4,2,1,2,1,Fully-Finished,2,4599693
+6th of October,109.5,3,2,1,1,Luxury-Finished,11,2417848
+Heliopolis,126.5,4,2,4,1,Fully-Finished,8,2825999
+Maadi,107.4,3,2,1,1,Fully-Finished,11,2649735
+Nasr City,122.5,4,2,5,1,Fully-Finished,10,2940533
+Dokki,208.6,4,1,2,0,Luxury-Finished,9,5384571
+Zamalek,165.9,2,2,1,1,Fully-Finished,23,5221169
+Mohandessin,137.5,2,2,2,0,Semi-Finished,11,2794716
+Nasr City,114.6,4,1,4,1,Semi-Finished,14,2462579
+Zamalek,105.0,2,2,3,1,Core & Shell,0,3131900
+Mohandessin,152.4,3,1,2,1,Semi-Finished,16,2675436
+New Cairo,45.0,1,2,3,1,Core & Shell,10,1228302
+Heliopolis,163.7,4,1,2,1,Luxury-Finished,0,4513981
+Nasr City,123.8,3,2,4,1,Semi-Finished,17,2825625
+New Cairo,120.8,2,2,1,0,Semi-Finished,23,2818748
+Heliopolis,109.5,2,2,2,0,Luxury-Finished,6,3498818
+Dokki,96.5,3,2,0,0,Fully-Finished,15,1760063
+Sheikh Zayed,172.0,2,2,5,1,Fully-Finished,18,3614346
+New Cairo,124.6,2,2,1,0,Core & Shell,3,3177441
+Tagamoa,99.2,2,1,2,1,Core & Shell,11,2206407
+Maadi,177.8,3,1,2,0,Semi-Finished,16,4372523
+New Cairo,140.7,2,1,0,0,Luxury-Finished,17,4498927
+Dokki,161.0,2,2,2,1,Fully-Finished,19,3327976
+New Cairo,107.6,3,2,3,1,Core & Shell,12,2542563
+6th of October,242.5,4,2,3,1,Core & Shell,20,3722569
+Sheikh Zayed,136.2,2,1,3,1,Fully-Finished,13,2628465
+Dokki,206.7,3,1,2,0,Luxury-Finished,3,5494606
+Maadi,148.1,3,1,3,1,Luxury-Finished,1,4733693
+6th of October,158.3,3,2,3,1,Semi-Finished,24,2453799
+Nasr City,141.2,1,1,3,1,Fully-Finished,20,2757066
+Maadi,124.4,2,1,3,1,Luxury-Finished,0,4212190
+6th of October,105.1,3,1,4,1,Semi-Finished,17,1843465
+New Cairo,90.3,3,1,2,0,Fully-Finished,20,2681420
+Tagamoa,135.7,2,2,3,1,Semi-Finished,6,3715569
+Maadi,133.9,4,1,3,1,Luxury-Finished,14,3847466
+Heliopolis,58.9,2,3,2,0,Core & Shell,17,1024809
+Heliopolis,45.0,2,1,2,0,Semi-Finished,11,991875
+Maadi,128.2,1,2,0,0,Semi-Finished,4,3077312
+New Cairo,157.8,2,1,1,1,Semi-Finished,9,3436588
+Dokki,101.7,3,2,2,0,Fully-Finished,18,1716806
+6th of October,164.7,2,2,2,0,Core & Shell,22,2128153
+6th of October,163.2,2,1,2,0,Semi-Finished,5,2826532
+New Cairo,132.2,3,2,4,1,Core & Shell,19,2751760
+Dokki,174.1,1,2,4,1,Fully-Finished,3,4121674
+Maadi,113.9,2,2,1,0,Fully-Finished,5,2876546
+Nasr City,165.9,2,2,4,1,Fully-Finished,5,3473294
+Sheikh Zayed,109.7,3,1,8,1,Semi-Finished,16,2201386
+Zamalek,188.2,5,2,4,1,Semi-Finished,13,6228570
+Dokki,113.6,2,1,0,1,Fully-Finished,11,1968144
+Heliopolis,143.6,2,2,1,0,Luxury-Finished,36,3702836
+Mohandessin,79.0,3,1,0,0,Semi-Finished,1,1713755
+Zamalek,104.3,3,2,5,1,Core & Shell,5,3487349
+Mohandessin,163.5,2,1,6,1,Luxury-Finished,13,4726329
+Mohandessin,98.0,1,1,2,0,Core & Shell,3,1875593
+Tagamoa,59.0,1,2,4,1,Core & Shell,8,1214649
+New Cairo,88.8,2,2,4,1,Semi-Finished,8,2165704
+Tagamoa,147.1,2,1,5,1,Semi-Finished,18,3693277
+Maadi,77.8,3,2,2,1,Luxury-Finished,22,2301933
+Nasr City,209.9,3,2,5,1,Semi-Finished,15,3853908
+Tagamoa,114.8,3,1,2,0,Luxury-Finished,20,2574620
+New Cairo,204.1,4,1,4,1,Luxury-Finished,12,7686192
+Maadi,179.2,1,2,2,0,Luxury-Finished,12,4600532
+Tagamoa,213.7,4,1,0,1,Luxury-Finished,8,6566502
+6th of October,145.8,4,2,4,1,Core & Shell,14,1929397
+Heliopolis,126.2,4,1,4,1,Fully-Finished,9,2819570
+New Cairo,129.4,3,1,2,0,Core & Shell,4,3491500
+New Cairo,121.7,4,2,2,0,Core & Shell,3,2349174
+Mohandessin,68.8,1,2,3,1,Core & Shell,15,980777
+Nasr City,81.1,3,2,2,0,Luxury-Finished,16,2130613
+New Cairo,125.1,3,2,7,1,Fully-Finished,4,4388084
+Heliopolis,129.8,3,1,2,1,Semi-Finished,17,3539916
+Heliopolis,171.4,2,1,2,0,Luxury-Finished,2,4630355
+Dokki,168.0,1,2,3,1,Luxury-Finished,6,4219286
+Heliopolis,206.9,3,2,2,1,Semi-Finished,12,4193822
+Sheikh Zayed,45.0,5,2,3,1,Core & Shell,11,692219
+Maadi,126.6,1,3,0,0,Luxury-Finished,3,3376943
+Mohandessin,193.0,3,1,5,1,Semi-Finished,17,4277708
+Zamalek,167.2,5,3,1,0,Core & Shell,24,4636143
+6th of October,157.5,1,1,1,0,Luxury-Finished,18,3436801
+Mohandessin,45.0,2,2,2,0,Semi-Finished,17,926408
+Zamalek,150.4,2,1,0,0,Semi-Finished,17,4583864
+6th of October,128.8,2,1,5,1,Semi-Finished,9,2002908
+Nasr City,168.5,2,2,6,1,Core & Shell,11,3118800
+Heliopolis,81.9,2,2,0,0,Core & Shell,13,1513054
+Zamalek,136.9,4,2,5,1,Semi-Finished,4,4972144
+Nasr City,138.8,1,2,7,1,Core & Shell,11,2670392
+Tagamoa,138.8,2,1,1,1,Core & Shell,0,3662101
+Zamalek,129.8,2,2,0,0,Luxury-Finished,5,5263114
+Dokki,181.3,3,2,3,1,Semi-Finished,15,3617811
+Mohandessin,88.7,3,1,3,1,Semi-Finished,8,2364200
+New Cairo,133.2,1,1,4,1,Semi-Finished,25,3150997
+Mohandessin,63.8,3,1,2,0,Semi-Finished,9,1314939
+Tagamoa,166.0,2,1,2,1,Fully-Finished,13,4450164
+Zamalek,154.6,3,2,3,1,Fully-Finished,0,6053485
+Maadi,156.6,3,1,1,0,Semi-Finished,7,3702418
+Heliopolis,181.5,2,2,3,1,Fully-Finished,11,4298448
+6th of October,168.6,3,3,1,1,Semi-Finished,16,2562252
+Heliopolis,95.9,2,2,8,1,Luxury-Finished,10,2543570
+New Cairo,147.3,1,1,3,1,Fully-Finished,18,4583577
+Heliopolis,112.3,2,1,0,0,Fully-Finished,14,2201749
+Heliopolis,116.3,2,2,6,1,Luxury-Finished,1,2866707
+Maadi,129.4,3,2,2,1,Semi-Finished,10,3021577
+Mohandessin,181.8,1,1,3,1,Luxury-Finished,4,5751990
+Zamalek,106.4,2,2,1,0,Fully-Finished,2,3779497
+Maadi,181.3,2,1,4,1,Luxury-Finished,9,5026162
+New Cairo,141.7,3,3,4,1,Luxury-Finished,21,4297201
+Heliopolis,88.8,3,2,0,0,Semi-Finished,10,1917646
+Heliopolis,151.2,3,2,1,1,Semi-Finished,7,2862305
+Sheikh Zayed,215.3,3,1,1,0,Luxury-Finished,35,3721639
+Sheikh Zayed,115.7,3,2,4,1,Core & Shell,26,1893131
+Mohandessin,87.5,2,2,7,1,Semi-Finished,0,2334914
+New Cairo,143.1,3,1,1,1,Core & Shell,18,3368035
+Nasr City,178.7,2,1,0,1,Semi-Finished,18,3221460
+Dokki,91.5,2,1,0,1,Fully-Finished,5,1744854
+6th of October,116.4,2,1,7,1,Core & Shell,22,1666709
+Zamalek,147.3,3,2,1,0,Core & Shell,20,3801363
+Dokki,74.9,3,2,8,1,Semi-Finished,2,1835598
+Tagamoa,116.6,3,1,0,0,Luxury-Finished,5,3514159
+Zamalek,106.2,3,2,4,1,Fully-Finished,24,3861739
+6th of October,80.2,4,1,4,1,Luxury-Finished,24,1693729
+Dokki,67.7,2,2,2,0,Fully-Finished,12,1569455
+6th of October,166.3,3,1,2,1,Luxury-Finished,18,3528669
+Dokki,123.4,4,1,1,1,Luxury-Finished,5,2743873
+Sheikh Zayed,122.7,4,1,3,1,Semi-Finished,6,2277050
+Sheikh Zayed,67.0,2,1,4,1,Fully-Finished,13,1220135
+Heliopolis,183.8,3,2,2,1,Semi-Finished,7,4118024
+Maadi,156.4,1,1,2,1,Luxury-Finished,14,4795224
+6th of October,100.3,2,1,1,1,Fully-Finished,9,1988344
+Zamalek,87.6,3,1,1,0,Semi-Finished,9,3311608
+Dokki,122.6,1,1,3,1,Fully-Finished,16,2736024
+6th of October,142.5,4,1,4,1,Luxury-Finished,1,2959002
+Dokki,53.7,2,1,3,1,Luxury-Finished,12,1202533
+Maadi,126.4,1,2,2,0,Fully-Finished,8,3686637
+Maadi,79.1,1,1,2,1,Luxury-Finished,15,2314354
+Maadi,250.7,1,2,1,0,Core & Shell,7,4722742
+Mohandessin,94.1,4,2,3,1,Core & Shell,22,1409062
+Nasr City,75.1,1,1,3,1,Core & Shell,12,1291415
+New Cairo,71.5,3,2,4,1,Luxury-Finished,3,2591447
+Maadi,81.6,2,2,3,1,Semi-Finished,5,1922846
+Nasr City,66.1,4,1,5,1,Semi-Finished,7,1262973
+New Cairo,100.6,3,1,4,1,Semi-Finished,8,2226473
+Mohandessin,109.3,1,2,0,0,Core & Shell,19,1833493
+Tagamoa,127.0,3,2,2,0,Luxury-Finished,5,3250239
+Dokki,104.1,2,2,2,1,Luxury-Finished,17,2304888
+New Cairo,132.4,4,2,2,1,Fully-Finished,7,3660112
+Mohandessin,96.7,2,2,2,0,Core & Shell,1,2202591
+Mohandessin,149.4,1,1,3,1,Luxury-Finished,25,3198590
+Maadi,178.9,4,1,2,1,Core & Shell,3,3662990
+Mohandessin,133.4,3,2,1,1,Semi-Finished,3,2794237
+Tagamoa,148.2,3,1,3,1,Fully-Finished,24,3918286
+Sheikh Zayed,118.2,2,1,6,1,Fully-Finished,10,2569902
+Heliopolis,113.3,4,3,3,1,Core & Shell,12,2215078
+Sheikh Zayed,45.0,3,2,3,1,Luxury-Finished,6,1023718
+Dokki,116.5,4,1,7,1,Semi-Finished,15,2138263
+Zamalek,129.2,2,1,6,1,Fully-Finished,17,5125915
+Nasr City,142.4,1,1,4,1,Core & Shell,3,1923836
+Nasr City,124.8,2,2,4,1,Luxury-Finished,17,2985368
+Heliopolis,188.8,1,2,4,1,Luxury-Finished,2,4655223
+Mohandessin,101.4,2,2,1,0,Core & Shell,5,1770981
+Maadi,185.3,3,1,2,1,Luxury-Finished,22,4494307
+Sheikh Zayed,194.2,3,1,8,1,Core & Shell,3,3547755
+Mohandessin,79.5,3,3,6,1,Core & Shell,21,1461514
+Zamalek,118.6,1,3,3,1,Semi-Finished,8,4544410
+Tagamoa,91.2,3,1,4,1,Luxury-Finished,11,2442005
+6th of October,138.4,4,1,4,1,Core & Shell,3,2246717
+Nasr City,106.9,3,2,4,1,Fully-Finished,20,2332892
+Mohandessin,147.3,2,1,1,0,Core & Shell,9,2582504
+Maadi,90.9,1,1,3,1,Fully-Finished,1,2419858
+New Cairo,220.5,4,2,3,1,Semi-Finished,21,5161849
+Tagamoa,106.0,1,2,6,1,Semi-Finished,7,2758010
+Heliopolis,101.1,3,2,0,0,Fully-Finished,15,2195445
+Maadi,140.1,3,1,2,0,Luxury-Finished,10,4300470
+Mohandessin,153.8,3,1,2,1,Semi-Finished,19,3037689
+Nasr City,164.7,4,2,3,1,Fully-Finished,7,2634145
+New Cairo,127.4,2,2,2,1,Semi-Finished,9,2767379
+Nasr City,92.7,3,3,2,1,Luxury-Finished,14,2317539
+Sheikh Zayed,98.5,3,1,4,1,Core & Shell,13,1698009
+6th of October,99.8,3,3,0,0,Luxury-Finished,9,2070897
+Dokki,170.4,2,1,5,1,Semi-Finished,18,2809582
+Sheikh Zayed,107.7,4,2,4,1,Luxury-Finished,10,2562743
+Heliopolis,129.1,4,1,1,1,Luxury-Finished,20,3202402
+Nasr City,197.0,2,1,1,0,Fully-Finished,12,3380614
+Zamalek,113.1,1,2,4,1,Core & Shell,1,4096454
+Nasr City,247.4,3,1,8,1,Fully-Finished,1,6008191
+Maadi,143.1,4,2,2,0,Semi-Finished,4,3211275
+Heliopolis,89.7,3,1,0,1,Core & Shell,22,1482867
+Nasr City,77.9,2,2,0,1,Fully-Finished,14,1362665
+Dokki,212.0,3,1,1,0,Fully-Finished,11,4781877
+Nasr City,133.9,2,2,1,1,Semi-Finished,9,1960613
+Heliopolis,178.8,3,1,6,1,Luxury-Finished,12,4579953
+Mohandessin,173.6,3,2,2,0,Luxury-Finished,15,4220781
+Nasr City,160.0,1,1,6,1,Core & Shell,5,2791188
+Nasr City,114.8,1,1,2,0,Core & Shell,13,1888458
+Tagamoa,128.5,3,2,2,0,Fully-Finished,7,3421183
+Heliopolis,161.1,4,1,3,1,Core & Shell,14,2796097
+6th of October,135.9,1,1,3,1,Luxury-Finished,8,2997148
+Heliopolis,134.2,2,1,0,0,Semi-Finished,23,2243088
+Tagamoa,126.2,1,2,2,0,Luxury-Finished,7,4216942
+Maadi,136.3,3,1,0,1,Fully-Finished,12,3126288
+6th of October,163.2,2,2,0,0,Core & Shell,27,2124260
+Maadi,166.4,2,2,0,0,Luxury-Finished,15,4203627
+6th of October,136.3,3,1,1,0,Core & Shell,15,2380641
+Sheikh Zayed,128.8,3,1,6,1,Fully-Finished,1,2966365
+Zamalek,61.9,1,2,3,1,Luxury-Finished,9,2558385
+Tagamoa,274.4,2,2,1,0,Luxury-Finished,14,7796292
+Nasr City,116.5,4,2,3,1,Semi-Finished,6,2194260
+6th of October,256.6,2,2,5,1,Core & Shell,13,3698476
+Heliopolis,45.0,3,1,3,1,Fully-Finished,2,1110186
+Tagamoa,136.5,3,1,5,1,Luxury-Finished,7,3701477
+Sheikh Zayed,130.1,3,2,5,1,Luxury-Finished,10,3090748
+Sheikh Zayed,85.4,3,2,2,0,Semi-Finished,3,1853783
+6th of October,79.8,2,2,0,1,Semi-Finished,0,1074136
+Dokki,167.4,2,3,1,1,Luxury-Finished,4,3913120
+Sheikh Zayed,145.9,2,2,1,1,Luxury-Finished,0,2809329
+Tagamoa,45.0,2,1,1,0,Fully-Finished,21,1259220
+Heliopolis,119.9,1,1,1,1,Luxury-Finished,6,2995801
+Sheikh Zayed,105.6,2,1,3,1,Core & Shell,14,1568250
+Tagamoa,192.2,2,1,3,1,Semi-Finished,5,5063959
+Tagamoa,45.0,4,2,0,0,Semi-Finished,0,1297372
+Mohandessin,101.8,2,1,2,1,Luxury-Finished,10,2798323
+Zamalek,72.0,1,2,5,1,Luxury-Finished,0,3626806
+6th of October,136.7,4,1,2,0,Core & Shell,10,2285303
+Heliopolis,94.8,2,1,2,0,Semi-Finished,25,1714714
+6th of October,157.8,2,2,3,1,Semi-Finished,10,2473819
+6th of October,170.9,1,2,0,0,Luxury-Finished,22,3282798
+Heliopolis,164.0,3,1,1,1,Luxury-Finished,17,4222939
+Tagamoa,188.1,3,1,1,0,Luxury-Finished,12,4253759
+Mohandessin,210.3,3,2,0,1,Fully-Finished,21,5318192
+Mohandessin,75.6,3,2,0,0,Core & Shell,15,1415959
+Nasr City,107.9,4,1,0,0,Fully-Finished,13,2124965
+Maadi,102.8,3,2,4,1,Core & Shell,11,2268280
+Tagamoa,114.9,5,1,7,1,Luxury-Finished,12,3259224
+Sheikh Zayed,196.6,3,2,5,1,Luxury-Finished,14,4352927
+Nasr City,178.9,3,2,1,1,Fully-Finished,15,3318411
+Zamalek,209.4,3,2,3,1,Semi-Finished,4,8406706
+Dokki,224.6,3,2,1,0,Luxury-Finished,5,5557917
+Tagamoa,154.6,2,2,3,1,Semi-Finished,4,4171830
+Sheikh Zayed,173.9,3,2,0,0,Luxury-Finished,15,3267396
+Nasr City,84.9,2,1,1,1,Core & Shell,10,1515037
+Nasr City,120.5,1,2,1,0,Semi-Finished,11,2306308
+Sheikh Zayed,144.0,4,2,1,1,Luxury-Finished,29,2945447
+Zamalek,128.4,3,2,3,1,Luxury-Finished,31,4618057
+Sheikh Zayed,120.7,3,2,0,0,Luxury-Finished,3,2575049
+Dokki,61.5,2,2,1,1,Fully-Finished,0,1392186
+New Cairo,173.8,1,2,4,1,Core & Shell,19,4535959
+New Cairo,234.1,2,2,2,0,Core & Shell,12,6281446
+Maadi,74.5,2,2,5,1,Semi-Finished,9,1936170
+Mohandessin,150.4,4,2,5,1,Semi-Finished,33,3058936
+Mohandessin,137.2,3,1,7,1,Semi-Finished,13,2973454
+Sheikh Zayed,97.4,4,2,2,0,Luxury-Finished,16,1820755
+Zamalek,143.3,3,3,1,0,Semi-Finished,1,4403442
+Maadi,74.9,4,2,3,1,Luxury-Finished,21,2038068
+Heliopolis,130.7,2,1,0,1,Semi-Finished,14,2645581
+Dokki,168.5,3,1,1,0,Luxury-Finished,12,4300000
+New Cairo,83.5,3,2,1,0,Semi-Finished,7,2237978
+6th of October,84.0,3,1,5,1,Core & Shell,30,1098176
+Tagamoa,159.0,2,2,0,1,Semi-Finished,15,3316437
+Sheikh Zayed,125.7,1,2,1,1,Luxury-Finished,16,2620494
+Nasr City,129.8,3,1,3,1,Fully-Finished,24,2345666
+Dokki,187.7,4,1,0,0,Fully-Finished,14,3638978
+Tagamoa,219.1,3,1,0,0,Luxury-Finished,20,5703900
+Tagamoa,137.0,3,1,2,1,Fully-Finished,11,3926150
+Dokki,161.6,2,2,2,0,Fully-Finished,0,3800884
+Tagamoa,220.1,2,1,1,0,Semi-Finished,17,5302583
+Sheikh Zayed,127.9,2,2,0,1,Fully-Finished,13,2661217
+Nasr City,78.7,1,2,1,1,Semi-Finished,21,1343970
+Mohandessin,127.7,3,1,3,1,Luxury-Finished,8,2928253
+Heliopolis,150.2,2,1,0,0,Luxury-Finished,24,3901410
+Heliopolis,178.4,2,1,6,1,Semi-Finished,11,3816476
+Dokki,153.8,4,1,5,1,Semi-Finished,20,2709888
+Mohandessin,104.7,3,1,2,1,Fully-Finished,0,2394974
+Maadi,121.6,2,1,0,1,Luxury-Finished,30,3472450
+Tagamoa,82.7,4,1,3,1,Core & Shell,11,1710137
+Sheikh Zayed,179.3,3,1,0,0,Luxury-Finished,4,3379037
+Maadi,135.6,1,1,5,1,Semi-Finished,21,3032817
+Heliopolis,131.1,4,2,2,0,Luxury-Finished,0,3845572
+Heliopolis,172.3,2,2,2,0,Luxury-Finished,10,3471101
+Dokki,125.0,3,1,3,1,Luxury-Finished,5,3317179
+Maadi,125.3,2,2,4,1,Core & Shell,7,2795626
+Tagamoa,159.2,3,1,5,1,Core & Shell,7,3600686
+Zamalek,253.7,3,1,1,1,Fully-Finished,23,7284266
+Zamalek,89.8,2,2,4,1,Fully-Finished,10,3492098
+Maadi,108.0,3,2,4,1,Luxury-Finished,19,3136603
+Tagamoa,118.7,3,1,0,0,Luxury-Finished,8,3525430
+Mohandessin,176.0,2,1,3,1,Core & Shell,12,3339529
+Tagamoa,176.4,4,1,1,1,Fully-Finished,3,5176295
+Mohandessin,200.2,2,1,5,1,Core & Shell,16,3953878
+Dokki,81.4,3,1,0,0,Luxury-Finished,9,1813675
+Nasr City,125.0,1,2,5,1,Semi-Finished,3,2825733
+6th of October,98.5,3,1,3,1,Core & Shell,10,1702004
+Dokki,79.2,3,2,4,1,Fully-Finished,30,1518715
+Sheikh Zayed,178.1,2,2,2,0,Core & Shell,8,3331822
+Dokki,112.9,1,1,4,1,Core & Shell,23,1947245
+Zamalek,194.3,1,1,2,1,Fully-Finished,11,7077410
+Tagamoa,166.1,2,2,2,0,Semi-Finished,4,4133688
+Tagamoa,128.5,2,2,3,1,Semi-Finished,8,3641875
+Zamalek,82.4,2,3,0,0,Core & Shell,1,2617446
+Tagamoa,45.0,2,3,0,0,Fully-Finished,3,1028660
+Tagamoa,175.4,4,1,4,1,Semi-Finished,23,4881737
+Sheikh Zayed,123.9,1,1,2,0,Fully-Finished,9,2472566
+6th of October,185.4,4,1,5,1,Fully-Finished,14,3606808
+Mohandessin,175.8,3,3,0,0,Core & Shell,7,3132163
+Maadi,154.8,4,1,0,0,Luxury-Finished,18,4289880
+New Cairo,47.6,2,1,1,0,Semi-Finished,4,1368548
+Maadi,140.3,1,2,0,1,Fully-Finished,14,3019500
+Zamalek,118.5,3,2,5,1,Luxury-Finished,11,5245238
+Dokki,115.3,3,2,2,1,Fully-Finished,2,2704428
+Heliopolis,151.4,2,1,5,1,Luxury-Finished,15,4085268
+Dokki,83.8,2,2,3,1,Core & Shell,7,1608714
+Nasr City,98.4,4,2,2,0,Fully-Finished,6,1538063
+Sheikh Zayed,68.3,1,2,2,0,Luxury-Finished,1,1581217
+Sheikh Zayed,157.7,3,1,2,0,Core & Shell,0,2964316
+Dokki,170.3,2,1,2,0,Fully-Finished,6,3915121
+Nasr City,122.7,3,1,1,0,Luxury-Finished,0,2657479
+Zamalek,81.8,3,1,3,1,Luxury-Finished,8,3001778
+Zamalek,127.4,3,1,4,1,Luxury-Finished,5,5273985
+6th of October,158.9,2,2,2,1,Fully-Finished,13,2224799
+Sheikh Zayed,52.7,3,2,1,0,Semi-Finished,10,973224
+Tagamoa,166.2,1,1,2,0,Fully-Finished,17,5396224
+New Cairo,124.7,1,2,5,1,Core & Shell,12,2791427
+Nasr City,178.1,3,1,3,1,Luxury-Finished,19,4508886
+New Cairo,132.0,2,2,0,1,Semi-Finished,15,2803102
+Dokki,182.9,2,2,3,1,Luxury-Finished,2,5434976
+New Cairo,204.8,3,1,2,0,Luxury-Finished,13,6116984
+Zamalek,211.2,3,1,3,1,Semi-Finished,9,7054028
+6th of October,118.4,3,2,3,1,Semi-Finished,9,2041279
+6th of October,135.9,2,2,3,1,Core & Shell,24,2182734
+Sheikh Zayed,104.1,3,1,4,1,Fully-Finished,7,1994944
+Nasr City,147.6,1,1,2,0,Semi-Finished,12,2640366
+New Cairo,63.9,2,2,4,1,Luxury-Finished,11,2404970
+6th of October,152.9,2,1,0,0,Semi-Finished,11,2745256
+Heliopolis,165.8,4,1,5,1,Core & Shell,10,3886607
+Nasr City,134.0,3,2,2,1,Luxury-Finished,13,3471884
+Nasr City,129.0,1,3,2,1,Semi-Finished,13,2659175
+Mohandessin,107.6,1,2,0,0,Core & Shell,9,1968985
+New Cairo,122.9,1,2,3,1,Fully-Finished,23,3300172
+Nasr City,95.4,3,1,0,0,Luxury-Finished,23,1868524
+Maadi,52.2,4,1,1,0,Semi-Finished,2,1410729
+Heliopolis,77.0,3,2,3,1,Core & Shell,11,1250880
+Nasr City,98.6,3,1,3,1,Core & Shell,17,1781544
+Sheikh Zayed,79.8,5,2,2,0,Fully-Finished,20,1891604
+Maadi,70.3,2,1,3,1,Luxury-Finished,14,1953760
+Maadi,105.5,1,2,5,1,Semi-Finished,7,2666856
+Nasr City,64.4,3,1,1,0,Core & Shell,5,1046467
+Tagamoa,152.2,1,1,2,0,Luxury-Finished,3,5643206
+Sheikh Zayed,96.6,2,1,6,1,Semi-Finished,16,1671090
+Maadi,184.8,3,2,2,0,Luxury-Finished,6,5457339
+Zamalek,110.5,4,1,6,1,Core & Shell,11,3582482
+Nasr City,172.5,2,2,2,1,Core & Shell,6,2684816
+Tagamoa,78.6,2,2,4,1,Luxury-Finished,13,2272753
+Sheikh Zayed,151.6,3,2,4,1,Luxury-Finished,12,3223712
+Sheikh Zayed,105.6,2,1,3,1,Semi-Finished,17,1887966
+Zamalek,135.7,3,1,1,1,Core & Shell,2,3793967
+Zamalek,156.3,2,1,3,1,Fully-Finished,16,4996594
+New Cairo,179.9,4,1,1,0,Fully-Finished,21,4756621
+Zamalek,45.0,1,1,0,0,Semi-Finished,8,1441053
+Heliopolis,200.8,2,2,5,1,Fully-Finished,23,4855275
+New Cairo,46.7,3,2,2,0,Semi-Finished,25,1226355
+Dokki,160.6,4,2,1,0,Semi-Finished,8,3512312
+Dokki,98.7,2,1,6,1,Core & Shell,25,1573290
+Mohandessin,141.6,2,2,4,1,Core & Shell,18,2689292
+Sheikh Zayed,267.1,1,1,2,0,Semi-Finished,0,4377825
+Heliopolis,89.9,2,1,4,1,Luxury-Finished,7,2498335
+Sheikh Zayed,175.2,2,1,3,1,Semi-Finished,3,2581130
+Dokki,150.6,3,3,3,1,Core & Shell,18,2541943
+New Cairo,148.4,4,1,3,1,Core & Shell,29,3290708
+New Cairo,209.3,2,1,3,1,Fully-Finished,5,5616000
+Zamalek,85.6,3,2,3,1,Core & Shell,18,2417274
+New Cairo,189.1,3,2,2,0,Luxury-Finished,17,5694651
+Mohandessin,178.9,1,1,4,1,Fully-Finished,11,4027169
+Mohandessin,175.1,2,1,5,1,Luxury-Finished,24,5090635
+Heliopolis,122.3,4,1,1,0,Core & Shell,6,2761455
+Mohandessin,96.1,2,1,4,1,Semi-Finished,8,1811080
+6th of October,154.9,1,1,1,1,Core & Shell,0,2460126
+Mohandessin,46.6,1,1,1,0,Semi-Finished,27,1016805
+Mohandessin,95.9,3,2,1,1,Core & Shell,0,1827775
+6th of October,127.2,2,2,1,0,Semi-Finished,2,2220778
+New Cairo,152.4,1,2,0,1,Luxury-Finished,7,4732719
+Nasr City,106.4,2,3,1,0,Core & Shell,31,1626693
+6th of October,139.1,3,3,1,0,Semi-Finished,3,2210067
+Nasr City,136.4,1,2,6,1,Core & Shell,13,2357978
+Maadi,107.2,3,1,6,1,Core & Shell,27,2172696
+Maadi,134.5,4,2,1,0,Fully-Finished,7,2894635
+Mohandessin,153.4,3,1,2,0,Fully-Finished,1,3337450
+Maadi,159.8,2,1,0,0,Fully-Finished,13,3748438
+Nasr City,102.2,2,2,1,0,Core & Shell,0,2092057
+Sheikh Zayed,106.5,2,2,10,1,Luxury-Finished,2,3042306
+6th of October,103.2,2,1,0,0,Fully-Finished,11,1570815
+Tagamoa,177.6,3,2,2,0,Luxury-Finished,9,5567536
+Dokki,82.6,2,1,1,0,Core & Shell,4,1671571
+Dokki,104.1,4,2,0,0,Semi-Finished,3,2569572
+Sheikh Zayed,213.8,2,2,1,1,Core & Shell,15,3103602
+Tagamoa,45.0,1,2,0,0,Core & Shell,11,838805
+Zamalek,99.8,3,2,2,0,Core & Shell,19,2928600
+New Cairo,200.1,2,1,0,0,Core & Shell,8,5012849
+Zamalek,193.5,3,1,5,1,Core & Shell,2,6831971
+Dokki,118.4,3,1,5,1,Fully-Finished,0,2680950
+Heliopolis,90.1,1,2,6,1,Semi-Finished,33,1858707
+Maadi,185.3,3,2,2,0,Core & Shell,13,3872323
+Mohandessin,109.0,2,1,4,1,Luxury-Finished,3,2993812
+Zamalek,221.0,4,2,3,1,Fully-Finished,14,8810457
+Zamalek,205.2,1,1,5,1,Luxury-Finished,9,8305185
+Sheikh Zayed,78.6,2,1,7,1,Fully-Finished,11,1722872
+Nasr City,161.5,3,2,5,1,Fully-Finished,6,3510145
+Nasr City,169.6,2,1,3,1,Core & Shell,18,2286824
+Maadi,167.2,2,2,4,1,Semi-Finished,24,4112546
+Mohandessin,195.6,4,2,3,1,Core & Shell,18,3786449
+Heliopolis,121.1,3,1,1,1,Luxury-Finished,22,2999896
+6th of October,227.2,1,1,3,1,Fully-Finished,21,4236377
+Sheikh Zayed,149.0,1,1,3,1,Core & Shell,1,2465749
+Mohandessin,157.5,2,2,5,1,Luxury-Finished,0,4079298
+New Cairo,45.0,2,2,2,0,Fully-Finished,15,1078974
+Tagamoa,170.9,2,2,2,0,Semi-Finished,1,3864647
+Dokki,178.6,3,2,3,1,Fully-Finished,13,3228514
+Tagamoa,122.8,2,3,4,1,Luxury-Finished,24,3795627
+Zamalek,103.0,3,2,1,0,Semi-Finished,8,3284235
+Maadi,207.3,1,2,1,1,Luxury-Finished,1,6659730
+New Cairo,167.9,4,2,7,1,Semi-Finished,16,4611764
+Mohandessin,150.4,4,1,1,1,Core & Shell,9,2163513
+Sheikh Zayed,141.2,1,2,4,1,Core & Shell,8,2833742
+Heliopolis,69.3,4,2,0,0,Fully-Finished,33,1388092
+Nasr City,95.5,1,1,2,1,Semi-Finished,12,1721268
+Heliopolis,163.5,2,1,2,0,Core & Shell,6,3338529
+Maadi,90.9,3,2,1,0,Core & Shell,20,1629090
+New Cairo,213.9,2,1,4,1,Semi-Finished,8,5402583
+Mohandessin,113.5,2,2,0,0,Fully-Finished,12,2618484
+Dokki,143.7,4,1,2,0,Core & Shell,16,2478698
+Tagamoa,117.4,3,1,1,1,Semi-Finished,7,3241326
+Heliopolis,45.0,3,2,0,1,Core & Shell,14,857091
+Heliopolis,161.5,1,2,1,0,Semi-Finished,17,3538210
+Zamalek,95.5,3,1,1,1,Fully-Finished,21,2957122
+Heliopolis,96.5,2,2,2,0,Fully-Finished,16,1932075
+Sheikh Zayed,101.6,2,3,2,0,Semi-Finished,20,1768346
+Nasr City,113.2,2,1,4,1,Semi-Finished,22,2142376
+Maadi,188.4,2,1,1,0,Core & Shell,14,3515286
+Maadi,167.8,2,2,4,1,Core & Shell,4,4392744
+Maadi,122.3,1,2,3,1,Luxury-Finished,11,3812005
+Dokki,168.6,3,2,2,1,Core & Shell,26,2320700
